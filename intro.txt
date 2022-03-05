@@ -1,0 +1,5 @@
+This is an intorduction on how to collaborate on github
+
+instructions
+1) Add a .txt file named as your name e.g segun.txt
+2) include a very short into about yourself, push to git hub
